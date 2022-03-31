@@ -7,7 +7,12 @@
         {
             "id": "app",
             "path": "/",
-            "rootComponent": "app"
+            "rootComponent": "example/app"
+        },
+        {
+            "id": "example",
+            "path": "/example",
+            "rootComponent": "example/example"
         }
     ]
 }
